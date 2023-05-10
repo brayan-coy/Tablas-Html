@@ -1,0 +1,31 @@
+table, th, td{
+
+border: 1px solid black;
+border-collapse: collapse;
+
+}
+
+th, td{
+padding: 15px;
+
+}
+
+th{
+
+    text-align: left;
+
+}
+
+table#tabla3{
+width: 100%;
+background-color: yellow;
+}
+
+table#tabla4{
+    background-color: aqua;
+}
+
+
+table#tabla5{
+    background-color: brown;
+}
